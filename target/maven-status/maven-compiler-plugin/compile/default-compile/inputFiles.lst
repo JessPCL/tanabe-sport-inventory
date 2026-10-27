@@ -1,0 +1,7 @@
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/InventoryApplication.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/controllers/InventoryController.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/events/LowStockEvent.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/models/Product.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/observers/StockAlertObserver.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/repositories/ProductRepository.java
+/workspaces/tanabe-sport-inventory/src/main/java/com/tanabesport/inventory/services/InventoryService.java

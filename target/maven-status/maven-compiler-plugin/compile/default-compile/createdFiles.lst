@@ -1,0 +1,7 @@
+com/tanabesport/inventory/services/InventoryService.class
+com/tanabesport/inventory/controllers/InventoryController.class
+com/tanabesport/inventory/models/Product.class
+com/tanabesport/inventory/events/LowStockEvent.class
+com/tanabesport/inventory/repositories/ProductRepository.class
+com/tanabesport/inventory/InventoryApplication.class
+com/tanabesport/inventory/observers/StockAlertObserver.class
